@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "da5274278528dcbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "87cd771814b9c913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "394f68bd9a357a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Note Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5e845b5605d693e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9727db7e190c7c",
+        "type": "tabs",
+        "dimension": 80.09950248756219,
+        "children": [
+          {
+            "id": "b5b7ad466bb45c61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69f33fac5be98ff6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ccb2fd5556f436d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "22dd3a8bbe3faf16",
+        "type": "tabs",
+        "dimension": 19.900497512437813,
+        "children": [
+          {
+            "id": "83ee50745a3dfd8b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7ce6667595304c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d84703eb4cdc90be",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "46e5a3d08d618581",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "My First Folder/WYZ article on the keto diet.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of WYZ article on the keto diet"
+            }
+          }
+        ]
+      },
+      {
+        "id": "46c58c890cdc6146",
+        "type": "tabs",
+        "dimension": 25.69245463228271,
+        "children": [
+          {
+            "id": "9fea4f34aa9c3bf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My First Folder/WYZ article on the keto diet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WYZ article on the keto diet"
+            }
+          },
+          {
+            "id": "01af988b07a5e202",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The healt benefits of meditation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The healt benefits of meditation"
+            }
+          },
+          {
+            "id": "7134116987a60640",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45a239d9789d9182",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The healt benefits of meditation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The healt benefits of meditation"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d109ec13383b797",
+        "type": "tabs",
+        "dimension": 40.97421203438395,
+        "children": [
+          {
+            "id": "225afebe1292cd77",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 545.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b5b7ad466bb45c61",
+  "lastOpenFiles": [
+    "My First Folder/The healt benefits of meditation.md",
+    "My First Folder/meditation.md",
+    "My First Folder/ketosis.md",
+    "My First Folder/intermittent fasting.md",
+    "Templates/Weekly Note Template.md",
+    "Templates/Daily Note Template.md",
+    "Learning obsidian.md",
+    "Example video projects Kanban.md",
+    "Example Moving Kanban.md",
+    "Microwave.md",
+    "Journal/Weekly/2025-W10.md",
+    "Journal/Weekly/2025-W09.md",
+    "Journal/Daily",
+    "Journal/Weekly",
+    "Journal/Daily/2025-02-24.md",
+    "Journal",
+    "My First Folder/WYZ article on the keto diet.md",
+    "Templates",
+    "My First Folder/New Note.md",
+    "My First Folder/Welcome.md",
+    "My First Folder"
+  ]
+}
