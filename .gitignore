@@ -1,0 +1,7 @@
+# Obsidian noise
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/graph.json
+
+# OS junk
+.DS_Store
